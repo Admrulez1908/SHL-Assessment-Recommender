@@ -1,0 +1,11 @@
+title,url,remote,adaptive,duration,type,description
+Numerical Reasoning Test,https://www.shl.com/numerical,TRUE,TRUE,20 min,Cognitive,Measures numerical analysis and data interpretation ability.
+Verbal Reasoning Test,https://www.shl.com/verbal,TRUE,TRUE,25 min,Cognitive,Evaluates understanding of written information.
+Personality Questionnaire,https://www.shl.com/personality,TRUE,FALSE,30 min,Behavioral,Analyzes personality traits and workplace behavior.
+Motivation Questionnaire,https://www.shl.com/motivation,TRUE,FALSE,20 min,Behavioral,Reveals motivational drivers in the workplace.
+Situational Judgment Test,https://www.shl.com/sjt,TRUE,TRUE,15 min,Behavioral,Assesses decision-making in work-related scenarios.
+Logical Reasoning Test,https://www.shl.com/logical,TRUE,TRUE,20 min,Cognitive,Tests ability to identify patterns and logical rules.
+Inductive Reasoning Test,https://www.shl.com/inductive,TRUE,TRUE,18 min,Cognitive,Evaluates ability to infer rules from patterns.
+Deductive Reasoning Test,https://www.shl.com/deductive,TRUE,TRUE,18 min,Cognitive,Tests logical deduction from given premises.
+Situational Strengths Test,https://www.shl.com/strengths,TRUE,FALSE,25 min,Behavioral,Identifies strengths in various workplace scenarios.
+Critical Thinking Test,https://www.shl.com/critical-thinking,TRUE,TRUE,30 min,Cognitive,Assesses analytical reasoning and argument evaluation.
