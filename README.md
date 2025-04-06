@@ -1,4 +1,4 @@
-# 🧠 SHL Assessment Recommendation System (AI Intern Assignment)
+# 🧠 SHL Assessment Recommendation System
 
 This project is a Generative AI-powered system that recommends SHL assessments based on a given job description (JD) or JD URL. It uses OpenAI's LLM and FAISS vector store to match job requirements with SHL’s assessment catalog.
 
